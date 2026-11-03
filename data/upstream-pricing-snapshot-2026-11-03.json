@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "description": "上游官方渠道公开标价快照（非魔方Hub售价；魔方Hub 倍率见官网倍率页）",
+    "snapshot_date": "2026-11-03",
+    "sources": [
+      "open.bigmodel.cn 登录页（2000万tokens新户体验包，页面实抓）",
+      "api-docs.deepseek.com（V4 峰谷定价 2026-08-17 生效；网页搜索接口 2026-11-01 起按次收费）",
+      "siliconflow.cn 官方活动页（注册赠14元 + 实名领16元代金券，活动至 2026-12-31）",
+      "api.foo GLM 价格页（GLM-5.3-Flash 五折期于 2026-09-09 结束，现标价）"
+    ],
+    "disclaimer": "价格可能随时调整，以各官方页面当日展示为准"
+  },
+  "zhipu": {
+    "signup_credit": "2000万 tokens 体验包（新用户注册即得）",
+    "glm_5_3_flash_cny_per_million": {
+      "input": 0.8,
+      "output": 2.8,
+      "cached_input": 0.23
+    },
+    "free_tier": "旧款 GLM-4.7-Flash / 4.5-Flash 永久免费（限流固定）"
+  },
+  "deepseek": {
+    "signup": "充值 1 元起，需实名",
+    "v4_peak_offpeak_cny_per_million": {
+      "note": "峰谷定价，2026-08-17 生效；非高峰约为高峰一半",
+      "pro_output_peak_max": 27
+    },
+    "builtin_tools": "网页搜索/抓取接口 2026-11-01 起按次收费"
+  },
+  "siliconflow": {
+    "signup_credit_cny": 14,
+    "kyc_voucher_cny": 16,
+    "voucher_campaign_until": "2026-12-31",
+    "free_tier": "开源小模型专区永久免费（固定限额，需实名）"
+  }
+}
