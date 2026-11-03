@@ -8,7 +8,8 @@
       "siliconflow.cn 官方活动页（注册赠14元 + 实名领16元代金券，活动至 2026-12-31）",
       "api.foo GLM 价格页（GLM-5.3-Flash 五折期于 2026-09-09 结束，现标价）"
     ],
-    "disclaimer": "价格可能随时调整，以各官方页面当日展示为准"
+    "disclaimer": "价格可能随时调整，以各官方页面当日展示为准",
+    "note_update": "2026-11-03: 移除第三方聚合平台条目——本快照只收录上游官方渠道口径（魔方Hub 内容纪律）"
   },
   "zhipu": {
     "signup_credit": "2000万 tokens 体验包（新用户注册即得）",
@@ -26,11 +27,5 @@
       "pro_output_peak_max": 27
     },
     "builtin_tools": "网页搜索/抓取接口 2026-11-01 起按次收费"
-  },
-  "siliconflow": {
-    "signup_credit_cny": 14,
-    "kyc_voucher_cny": 16,
-    "voucher_campaign_until": "2026-12-31",
-    "free_tier": "开源小模型专区永久免费（固定限额，需实名）"
   }
 }
