@@ -40,6 +40,10 @@ data/       上游官方价格快照（JSON，含核验日期）
 ## 相关链接
 
 - 官网：https://mofanghub.cn
+- 技术博客：https://blog.mofanghub.cn（模型选型实测与计费拆解）
+  - [混元 Hy4 接入决策：定价 6/18 元与 5 折折扣下的场景账](https://blog.mofanghub.cn/hunyuan-hy4-adoption-pricing-2026-11/)
+  - [GLM Coding Plan vs API 按量：一张表算清临界用量](https://blog.mofanghub.cn/glm-coding-plan-vs-api-usage-break-even/)
+  - [DeepSeek 联网搜索 API 计费规则：5 元/千次](https://blog.mofanghub.cn/deepseek-search-api-pricing-2026-11/)
 - 更新日志：https://mofanghub.cn/about
 
 ## License
